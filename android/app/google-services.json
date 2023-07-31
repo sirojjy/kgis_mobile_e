@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "345017882777",
+    "project_id": "kgis-mobile-906a0",
+    "storage_bucket": "kgis-mobile-906a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345017882777:android:729a416a1064449036c008",
+        "android_client_info": {
+          "package_name": "com.kgis_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345017882777-sbkdsgfeh7e4m35f2rsck0jt8plh32b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoyTa3Bl4Qm9DPlYDkYn0vacS3ZFBarro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345017882777-sbkdsgfeh7e4m35f2rsck0jt8plh32b0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
